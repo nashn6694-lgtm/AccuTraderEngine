@@ -1,0 +1,2 @@
+# AccuTraderEngine
+Accumulater Trading Engine
